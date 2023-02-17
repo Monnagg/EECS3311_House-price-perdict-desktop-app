@@ -8,3 +8,4 @@ Group Members:
 
 - Noel Chong/216931412
 - Nam Vu Hoang Nguyen - 217162082
+- Xinyi Pang -218616003
